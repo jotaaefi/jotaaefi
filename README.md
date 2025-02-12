@@ -1,4 +1,4 @@
-<h1 align="center">Oioi, meu nome é Joao Felipe :)</h1>
+<h1 align="center">Oioi, meu nome é João Felipe :)</h1>
 
 ### Estudante de Sistemas de Informação
 - 👨🏻‍🎓 Formado como Técnico em Informática em ISERJ - RJ (2017 - 2019).
