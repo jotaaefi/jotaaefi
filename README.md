@@ -6,8 +6,8 @@
 
 ### Conexões
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:diogo.arrudamarinho@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/diogoarrudamarinho/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:joao.felipe@edu.unirio.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joao-felipe-s-silva/)
 
 ### Habilidades
 
@@ -21,14 +21,15 @@
 
 ### GitHub Stats
 
-![diogoarrudamarinho's Stats](https://github-readme-stats.vercel.app/api?username=jotaaefi&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![diogoarrudamarinho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaefi&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![jotaaefi's Stats](https://github-readme-stats.vercel.app/api?username=jotaaefi&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![jotaaefi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaefi&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ### Atualmente focado em
 <div style= "display: inline">
-  <img widith='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  
 </div>
 
 
